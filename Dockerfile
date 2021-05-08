@@ -1,6 +1,6 @@
 FROM tomcat:8.0.20-jre8
 
-MAINTAINER madhu Sudhan Reddy <ybmadhu404@gmail.com>
+MAINTAINER Ratheesh kumar <ratheeshkumar.2008@gmail.com>
 
 WORKDIR /usr/local/tomcat/webapps/
 #RUN pwd
